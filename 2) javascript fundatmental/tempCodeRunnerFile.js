@@ -1,3 +1,3 @@
-console.log("" && 0 && 2);
-// console.log("" && 0 && 2);
-// console.log("undefined" &
+for (let i=5; i>=1; i--){
+//     console.log(symbol.repeat(i));
+// }
